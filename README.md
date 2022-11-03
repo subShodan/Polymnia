@@ -17,7 +17,7 @@ Discussions pending
 Modules 
 -------
 
-## Athena Module:
+## Aphrodite Module:
    
     This module takes care of the styling for the web app. Based on TailswindsCSS, The classes are abstracted to utility based representations.
 
